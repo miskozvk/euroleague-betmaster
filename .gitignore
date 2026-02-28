@@ -1,0 +1,5 @@
+# Docker
+mysql_data/
+
+# Environment varijable (sigurnost!)
+.env
